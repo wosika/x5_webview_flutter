@@ -43,7 +43,7 @@ apply plugin: 'kotlin-android'
 
 android {
     compileSdkVersion 32
-
+    namespace "com.cjx.x5_webview"
     compileOptions {
         sourceCompatibility JavaVersion.VERSION_1_8
         targetCompatibility JavaVersion.VERSION_1_8
